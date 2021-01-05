@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyKampus Radio Unofficial Beta 1</string>
+    <string name="button_exit">Exit</string>
+    <string name="text_playing">Tap To Play</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="choose_theme_text">Choose Theme</string>
+    <string name="channel_name">MyKampus Radio</string>
+    <string name="channel_description">Luahkan semangat anda bersama kami! Jom berubah bersama MyKampus Radio</string>
+    <string name="text_on_pause">On Pause</string>
+    <string name="text_on_playing">Now Playing</string>
+</resources>
